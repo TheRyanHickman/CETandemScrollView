@@ -109,7 +109,6 @@ web: [Cool Elephant](http://coolelephant.co.uk)
 twitter: [@coolelephant](https://twitter.com/coolelephant)  
 email: trunk@coolelephant.co.uk
 
-Or you can email
 
 ## License
 
