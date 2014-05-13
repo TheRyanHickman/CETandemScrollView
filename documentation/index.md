@@ -89,11 +89,11 @@ Type: `Float`
 The offset in the y direction the current view has moved
 
 ##### decelerating
-Type: `Boolean`	
+Type: `Boolean`		
 True if the scrolling view is decelerating
 
 ##### dragging
-Type: `Boolean`	
+Type: `Boolean`		
 True if the scrolling view is moving because of a user drag interaction
 
 
