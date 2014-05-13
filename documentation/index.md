@@ -8,7 +8,7 @@ You can lock a number of ScrollViews or ScrollableViews together and proportiona
 
 **This is an iOS only module**
 
-<img src="images/demo.gif" />
+<img src="../images/demo.gif" />
 
 ## Quick Start
 
